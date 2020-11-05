@@ -401,7 +401,7 @@ SPX обеспечивает двухфакторную аутентификац
 
 ## Благодарности
 
-Я нашел много вдохновения и подсказок, читая:
+Источники вдохновения и подсказок:
  - [XHProf](https://github.com/phacility/xhprof)
  - [Xdebug](https://github.com/xdebug/xdebug)
  - [PHP](https://github.com/php/php-src)
